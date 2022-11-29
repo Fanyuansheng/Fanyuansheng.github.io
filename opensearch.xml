@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>范远昇的个人网站</ShortName>
+  <Description>Search 范远昇的个人网站</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://Fanyuansheng.github.io/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://Fanyuansheng.github.io/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://Fanyuansheng.github.io/opensearch.xml" />
+  <moz:SearchForm>https://Fanyuansheng.github.io/</moz:SearchForm>
+</OpenSearchDescription>
